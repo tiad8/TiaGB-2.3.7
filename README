@@ -1,0 +1,30 @@
+TiaGB 2.3.7 
+
+SUPPORTED DEVCIES
+
+-diamond
+-topaz
+-blackstone
+-raphael
+-rhod
+-X1
+
+CHANGE LOG
+
+-fixed Gsensor
+-fixed Gps
+-BT works
+-added kexec support
+-updated recovery V5- this will be with the full package
+-build.prop tweaks
+-modules will be flash with the build
+-location is working
+-super fast wifi
+-adw main launcher
+-for auto screen rotate. i added a witget. make sure that app is always on. i promise you, you wont have any issue with screen rotation. this need to be fix in the kernel
+-3.5 mm works great
+-latest maps
+-latest youtube
+-latest twitter
+-latest facebook
+-looks like you can use this build for daily use. make sure to turn off your device for about 3 minute once a day to let the sdcard rest. i have a friend here in my home town. he been using tiadroid builds for about 7 month with no issue doing this.
